@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+
+  <html lang="en">
+
+    <head>
+      <title>PhD Procrastination-Cat Videos</title>
+      <link rel="stylesheet" href="stage1style.css" />
+    </head>
+
+    <body>
+
+      <h1 class="title">All those CRAZY cat videos and such</h1>
+
+      <ul class="links">
+        <li><a href="RMStage1Home.html">HOME</a></li>
+        <li><a href="RMStage1AboutMe.html">ABOUT ME</a></li>
+        <li><a href="RMStage1Cats.html">CAT VIDEOS AND MORE</a></li>
+      </ul>
+
+          <h2>So why is this page here?</h2>
+            <div class="blurbs">
+              <p>
+                So anyone could tell you the number one way to really procrastinate is to start browsing <a href="www.youtube.com">YouTube</a> and see
+                what deep dark hole of the site you can find. The purpose of this page? Well I'm going to show you some of my favorite past times on
+                YouTube and give you a bit more context into why they are good starting points to lead you to hours of <b>glorious</b> procrastination.
+              </p>
+            </div>
+            <!-- Video 1 -->
+            <div class="videxp">
+              <div>
+                <iframe width="492" height="277" src="https://www.youtube.com/embed/agi4geKb8v8" allowfullscreen></iframe>
+              </div>
+              <div class="exp">
+                <p>
+                  <span class="letter">A</span>s a cat owner myself, I find all cat videos quite hilarious. Does this make me a <b>slight</b> crazy cat person? I think so, but I really
+                  do try to play it off like it's nothing. I mean come on, cats and cucumbers? Who doesn't like something like this? This is just the beginning
+                  of any crazy cat videos that will keep you entertained for hours to come.
+                </p>
+              </div>
+            </div>
+            <!-- Video 2 -->
+            <div class="videxp">
+              <div class="exp">
+                <p>
+                  <span class="letter">T</span>he BuzzFeed <a href="https://www.youtube.com/playlist?list=PL5vtqDuUM1DltZMiLxaUtlNjJTsUAzztE">Try Guys</a> are probably some of the most entertaining
+                  videos out there, at least in my opinion. I have spent hours upon hours watching the ridiculous <em>s**t</em> that these guys do and really it just
+                  leads to me click on more of their videos and before I know it, it's <em>5:00pm</em> and I should be getting on the subway to go home. Needless to say, these videos always make for
+                  a <u>great</u> time for procrastinating.
+                </p>
+              </div>
+              <div>
+                <iframe width="492" height="277" src="https://www.youtube.com/embed/QTrqGwj3XpA"  allowfullscreen></iframe>
+              </div>
+            </div>
+            <!-- Video 3 -->
+            <div class="videxp">
+              <div>
+                <iframe width="492" height="277" src="https://www.youtube.com/embed/MrkJM4JUB28"  allowfullscreen></iframe>
+              </div>
+              <div class="exp">
+                <p>
+                  <span class="letter">L</span>ast, but certainly not least, I highly recommend any of the late-night shows. <a href="https://www.youtube.com/user/latenight">Jimmy Fallon</a>,
+                  <a href="https://www.youtube.com/user/SaturdayNightLive">SNL</a>, <a href="https://www.youtube.com/user/LastWeekTonight">John Oliver</a> or
+                  <a href="https://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig">Stephen Colbert</a> are all good places to start. Everytime I end up loading one of these shows, I spend hours
+                  watching lip-sync battles, actual singing battles, random sketches from some pretty hilarious people, or just getting very frustrated about how all the news nowadays is Trump.
+                  Either way, it definitely allows for hours of (<em>hopefuly</em>) fun procrasstination.
+                </p>
+              </div>
+            </div>
+
+            <div class="blurbs">
+              <p>
+                If all else fails you, then I'd just suggest putting on <a href="www.netflix.com">Netflix</a>, and start to binge watch anything on there. I am only <em>slightly</em> obessed with
+                30 Rock, but to each their own.
+              </p>
+            </div>
+
+      <div>
+        <h6>Coded by Rosie Martinez-2017: Introduction to Programming</h6>
+      </div>
+
+    </body>
+
+  </html>
