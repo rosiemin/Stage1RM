@@ -1,0 +1,99 @@
+<!DOCTYPE HTML>
+
+<html lang="en">
+
+    <head>
+        <title>PhD Procrastination?</title>
+        <link rel="stylesheet" href="stage1style.css" />
+    </head>
+
+    <body>
+
+      <h1 class="title"> PhD Procrastination?</h1>
+
+      <ul class="links">
+        <li><a href="RMStage1Home.html">HOME</a></li>
+        <li><a href="RMStage1AboutMe.html">ABOUT ME</a></li>
+        <li><a href="RMStage1Cats.html">CAT VIDEOS AND MORE</a></li>
+      </ul>
+
+
+          <div class="aboutme">
+            <h2 class="whoami"> Want to get to know me better?</h2>
+            <div class="textandpic">
+              <div class="mytext">
+                <p>
+                  In case you were wondering. I'm a PhD student, well not exactly that, technically a ScD student (doctorate of science), but who really knows the distinction? <b><em>Answer:</em> No one</b>.
+                  I'm currently in my third year of my program and I have found some of the best ways to procrastinate through my degree. And yes, I do mean putting off all work until the <em>very</em>
+                  last possible minute, but also trying to figure out if the whole academia path is right for me. This I actually can answer with a resounding <b>absolutely not</b>, which is why I'm
+                  starting to take this <a href="https://www.udacity.com/course/intro-to-programming-nanodegree--nd000">Introduction to Programming</a> Nanodegree program from Udacity (just a little
+                  shameless plugging here). To really grasp a better understanding for what I do and what my current research entails, I suggest you go <a href="RMStage1AboutMe.html">here</a>.
+                  Just to <b>warn</b> you now, these pages are filled with ways to procrastinate, but also give you a bit of insight into who I am and what I spend all that <em>free</em>time I don't have doing.
+                  I'd highly recommend not reading past this point if you really have to get something done, otherwise <b>Welcome!</b>
+                </p>
+              </div>
+              <div class="mypic">
+                <img src="mypic.png" width="400" height="500" alt="Sorry if you can't see the awesome picture of my cats">
+              </div>
+            </div>
+          </div>
+
+
+          <div class="section">
+            <h2 class="whatisthepoint"> So what is the point of this?</h2>
+              <div class="pointdesc">
+                <div class="firstcomic">
+                  <img src="http://www.phdcomics.com/comics/archive/phd050508s.gif" height="300" width="600" Alt="Sorry, try going to http://www.phdcomics.com/comics/archive.php?comicid=1012">
+                </div>
+                <div class="firstblurb">
+                  <p>
+                    Aside from this fact that this is a requirement for me to get past this stage in my nanodegree, I do find it helpful to have a resouce for all the most ridiculous comics out there
+                    to be able to laugh your baseline stress levels down from a hearty 200% to maybe 175%. Most of my time procrastinating occurs on this <a href="http://phdcomics.com/comics.php">website</a>
+                    due to its ability for me to 110% relate to the comics and how fatalistic it makes the PhD really seem. This is one of the more relatable comics to the left (in my current state of mind).
+                  </p>
+                </div>
+              </div>
+              <div class="blurbs">
+                <p>
+                  To be honest though, too many of these smaller comics are just one of many ways that I have found myself procrastinating with my degree. The list could (<em>literally</em>)
+                  go on and on, but I'll try to keep it short and brief:
+                </p>
+                  <ol class="list">
+                    <li>Random comics online</li>
+                    <li>Travel around the world for a bit</li>
+                    <li>Decide that this might not be the life trajectory for you</li>
+                    <li>Change life paths halfway through your degree</li>
+                    <li>Start a nanodegree in coding to get introduced to the tech industry</li>
+                    <li>Have your parents get a puppy</li>
+                  </ol>
+                <p>
+                  Now this last one is by far the best possible solution. I mean come on, look at this face.
+                </p>
+                  <div >
+                    <img class="image2" src="puppy.png" alt="You're missing out on the cutest picture of a puppy">
+                  </div>
+              </div>
+          </div>
+
+
+          <div class="section">
+            <h2 class>So now what?</h2>
+            <div class="blurbs">
+              <p>
+                Well now what does this all mean? By now you have gotten to know who I am a little bit better and you have probably realized I might just be a jaded PhD student who is in desparate
+                need for a <b>long</b> vacation. In all seriousness though, I am excited to see where this programming <em>"thing"</em> will take me and see just how fruitful it can be. In an ideal
+                world, I'd be able to find some sort of tech/health start-up that would value a ScD in Public Health along with the nanodegrees (this one and the ones I plan to take) and find that
+                I can actually be a productive member of society. Only time will tell.
+              </p>
+            </div>
+            <div>
+              <img class="image2" src="http://www.phdcomics.com/comics/archive/phd072215s.gif" alt="Another PhD Comic">
+            </div>
+          </div>
+          <div>
+            <h6>Coded by Rosie Martinez-2017: Introduction to Programming</h6>
+          </div>
+
+    </body>
+
+</html>
