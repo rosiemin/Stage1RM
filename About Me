@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+
+  <html lang="en">
+
+    <head>
+      <title>PhD Procrastination-About me</title>
+      <link rel="stylesheet" href="stage1style.css" />
+    </head>
+
+    <body>
+
+      <h1 class="title">About me</h1>
+
+        <ul class="links">
+          <li><a href="RMStage1Home.html">HOME</a></li>
+          <li><a href="RMStage1AboutMe.html">ABOUT ME</a></li>
+          <li><a href="RMStage1Cats.html">CAT VIDEOS AND MORE</a></li>
+        </ul>
+
+
+              <div class="firstsection">
+                <div class="myrealpic">
+                  <img src="myrealpic.png" height="360" alt="My actual picture">
+                </div>
+                <div class="myfirstblurb">
+                  <p>
+                    The first thing you might be asking yourself is... "Is that a plush testicle?" Well really it probably wasn't the first thing you
+                    were asking yourself, but the answer to that question is. <b>Yes, yes it is.</b> Now you might be asking yourself, "Why did I come
+                    to this website of this crazy person holding a plush testicle?" For that, I have no answer, but I can let you know it all has relevance
+                    to who I am and what I research.
+                  </p>
+                </div>
+              </div>
+
+              <div class="section">
+                <div>
+                  <p>
+                    I orignally come from the glorious land of the Pacific Northwest (<em>west coast, best coast?</em>) and now currently reside in that
+                    city where all of those people walk really really fast and have to be somewhere at all times. Yup, you guessed it, good 'ol NYC.
+                    I am currently a doctoral student getting a degree in public health. Ahh that over-used broad statement that can mean so many different
+                    and wonderful things. Most people just ask me what public health is, and to any different public health professional, they will give
+                    you a different answer. I'll give you mine. Public health is a field in which multiple disciplines come together to try to better
+                    the health of the people. These disciplines include, but are not limited to:
+                  </p>
+                      <ul class="publichealth">
+                        <li>Epidemiology</li>
+                        <li>Biostatistics</li>
+                        <li>Environmental Health</li>
+                        <li>Health Policy and Management</li>
+                        <li>Population Family and Health</li>
+                        <li>Sociomedical or social-behavioral sciences</li>
+                      </ul>
+                </div>
+
+                <h2 class="whatami">So what exactly am I doing here?</h2>
+                <div>
+                  <img class="screenshot" src="screenshot.png" height="250" width="750" alt="my lovely dissertation title">
+                </div>
+                <div class>
+                  <p>
+                    I tend to put myself in that third public health category, <b>Environmental Health</b>. So what do all of those words that are on that screen
+                    have to do with environmental health? Well, long story short, I have the pleasure of studying how environmental exposures
+                    (<em>phthalates</em>) impact <b>male infertility</b> by way of examining the molecular pathways. In particular, I focus on <u>mitochondria</u>,
+                    the powerhouse of all our cells. It's actually quite interesting and important in this day and age, but really I have the privledge of working
+                    with <em>sperm</em> all day 'er day.
+                  </p>
+                </div>
+
+              </div>
+
+
+              <div class="section">
+                <div class>
+                  <p>
+                    Last, but certainly not least, I have to introduce my two feline friends who are constant companions and rely heavily on my non-existant income
+                    for food. Chloe (left) I adopted about 4 years ago from the <a href="https://www.aspca.org/">ASPCA</a> in New York. Piper (right) on the other hand, I ended
+                    up adopting her about 2 years ago from the <a href="https://www.mspca.org/">MSPCA</a> during my short stint in Boston. They are an integral part
+                    of who I am, so I'd be selling you short if you didn't get to see at least one adorable picture of each of them.
+                  </p>
+                </div>
+                <div class="catpics">
+                  <div class="cats2">
+                    <img src="chloe.png"  width="360" alt="Chloe da cute cat">
+                  </div>
+                  <div class="cats2">
+                    <img src="piper.png" width="360" height="480" alt="Piper the hyper cat">
+                  </div>
+                </div>
+              </div>
+
+      <div class>
+        <h6>Coded by Rosie Martinez-2017: Introduction to Programming</h6>
+      </div>
+
+    </body>
+
+  </html>
