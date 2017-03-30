@@ -1,0 +1,259 @@
+/* This is the styling document for my stage 1 website.*/
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+/* This formats the overall webpage, everything that you see */
+body{
+  background-color: #3a434c;
+  padding-right:100px;
+  padding-left:100px;
+  justify-content:center;
+  max-width:1500px;
+}
+/*This will change the title how you want it to look, make sure
+to stay consistant between webpages*/
+.title{
+  max-width: 1100px;
+  font-family: Verdana;
+  font-size: 42pt;
+  font-weight:lighter;
+  color: white; /*we can show color by listing the actual name of the color*/
+  /* changing the padding can make the font look offset from the center of the box*/
+  padding-top: 35px;
+  padding-left: 15px;
+  margin-bottom:0px;
+}
+/*this is how to make the nav bar at the top with the multiple
+html links */
+.links{
+  max-width:1000px;
+  border-top-color: #009688; /*we can show color by using the hexadecimal system*/
+  border-top-style: double;
+  border-bottom-color:#009688;
+  border-bottom-style:double;
+  font-family: sans-serif;
+  font-size: 14pt;
+  margin-bottom:10px;
+}
+/*in the HTML, you see that there is a un-numbered list, so this
+corresponds to that */
+ul.links {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #3a434c;
+    min-width:1050px;
+    position: fixed;
+    top: 0;
+    z-index:1;
+
+}
+/*this will only impact the li tagged components that are also an
+<a>*/
+li a {
+    float: left;
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-right: 1px solid #bbb;
+}
+/*Changes the color of a link if you over your mouse over it */
+li a:hover {
+    background-color: #cdffca;
+    color:navy;
+}
+/*changes the color of the link*/
+a:link{
+  color:#a37eda;
+}
+/*changes the color of a link that you have previously visited*/
+a:visited{
+  color:#cdffca;
+}
+/*same as above, changes the hovering color*/
+a:hover{
+  color:lavender;
+}
+/*This will impact all text that is within a <p> tag, which should
+be all text */
+p {
+  font-size: 14pt;
+  color: white;
+  font-family: Verdana;
+  font-weight: lighter;
+}
+/*formatting all h2 headers*/
+h2{
+  font-size: 22pt;
+  color: #009688;
+  font-family:Verdana;
+  font-weight:lighter;
+  position:relative;
+  max-width:600px;
+  min-width:400px;
+}
+/*formatting all h6 headers*/
+h6{
+  color:white;
+  font-family: Verdana;
+  font-weight: lighter;
+}
+/*formatting all bold tags <b>*/
+b{
+  color:rgb(158, 162, 252); /*we can show color by the rgb*/
+}
+
+/*~~~~~~~~~~~~~~~~~HOME page specific code starts here!~~~~~~~~~~~~~~~~*/
+
+/*formats the box that holds the about me section*/
+.aboutme{
+  max-width:1000px;
+  position:relative;
+  bottom:75px;
+}
+/*bringing the h2 header down 110 pixels from it's normal position*/
+      .whoami{
+        top: 110px;
+      }
+      /*allows for two items to be inline*/
+      .textandpic {
+        display: flex;
+      }
+            .mytext{
+              max-width:600px;
+              min-width:500px;
+              position:relative;
+              top:80px;
+            }
+            .mypic {
+              position:relative;
+              top:60px;
+              padding-left:30px;
+            }
+.blurbs{
+  max-width:1000px;
+  min-width:800px;
+  justify-content:center;
+  margin-top:1px;
+  padding-top:1px;
+}
+.section{
+  max-width:1000px;
+  min-width:800px;
+}
+/*The code below is the way to center images to your webpage
+specifications*/
+.image2{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.pointdesc{
+  display:flex;
+  max-width: 1000px;
+  max-height:300px;
+}
+    .whatisthepoint{
+      margin-top:10px;
+      position:relative;
+      text-align:left;
+      left:575px;
+    }
+    .firstcomic{
+      padding-right:20px;
+    }
+    .firstblurb{
+      position:relative;
+      min-width:400px;
+      max-width:500px;
+      bottom:25px;
+    }
+    .list{
+      font-size: 14pt;
+      color: white;
+      font-family: Verdana;
+      font-weight: lighter;
+    }
+
+
+
+/*~~~~~~~~~~~~~~~~~CATS page specific code starts here!~~~~~~~~~~~~~~~~*/
+.firstsection{
+  display:flex;
+  max-width:1000px;
+  min-width:800px;
+  padding-right: 150px;
+  padding-left: 150px;
+}
+        .myrealpic{
+          margin-right: 75px;
+        }
+        .myfirstblurb{
+          max-width:300px;
+          min-width:200px;
+          margin-left: 30px;
+        }
+
+        .publichealth{
+          font-size: 14pt;
+          color: white;
+          font-family: Verdana;
+          font-weight: lighter;
+        }
+
+        .whatami{
+          min-width:1000px;
+          text-align:center;
+        }
+        .screenshot{
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+        }
+    /*Still trying to figure out how to center a flex box, I can do it
+    with individual images, but I haven't quite figured it out for
+    multple inline div boxes*/
+    .catpics{
+      display:flex;
+      margin: auto;
+      width: 80%;
+      padding: 10px;
+    }
+        .cats2{
+          padding:5px;
+          margin-right: 30px;
+        }
+
+
+/*~~~~~~~~~~~~~~~~~CATS page specific code starts here!~~~~~~~~~~~~~~~~*/
+
+
+    .videxp{
+      display:flex;
+      min-width:1000px;
+      margin: auto;
+      width: 80%;
+    }
+        iframe{
+          padding:25px;
+          border-style:none;
+          width:600px;
+          height:400px;
+        }
+        .exp{
+          padding-left:20px;
+          min-width:300px;
+          max-width:375px;
+        }
+        .letter{
+          font-family: cursive;
+          font-size:20pt;
+          padding:0;
+          margin:0;
+          border:0;
+        }
